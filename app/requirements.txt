@@ -42,5 +42,5 @@ soupsieve==2.2.1
 sympy==1.8
 thehive4py==1.8.1
 typing==3.7.4.3
-urllib3==1.26.6
+urllib3==1.26.18
 Werkzeug==2.0.1
