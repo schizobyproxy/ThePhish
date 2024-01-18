@@ -2,7 +2,7 @@ attrs==21.2.0
 beautifulsoup4==4.9.3
 bidict==0.21.2
 bs4==0.0.1
-certifi==2021.5.30
+certifi==2023.7.22
 charset-normalizer==2.0.4
 click==8.0.1
 cortex4py==2.1.0
