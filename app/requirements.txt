@@ -13,7 +13,7 @@ d8s-math==0.7.0
 d8s-strings==0.5.0
 d8s-uuids==0.6.0
 dictdiffer==0.9.0
-dnspython==1.16.0
+dnspython==2.6.1
 emoji==1.4.2
 eventlet==0.31.1
 Flask==2.0.1
